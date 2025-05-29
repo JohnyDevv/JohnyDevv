@@ -48,7 +48,7 @@
 ---
 
 ### 📬 How to reach me:
-- Email: johny.devv@example.com  
+- Email: johny.devv@gmail.com  
 - Telegram: [@JohnyDevv](https://t.me/JohnyDevv)
 
 ---
